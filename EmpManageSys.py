@@ -172,7 +172,7 @@ def Update_Employ():
         #commit() method to make changes in the table
         conn.commit()
         print("Updated Emplpyee Record")
-        press = input("Press ANy Key To Continue..")
+        press = input("Press Any Key To Continue..")
         menu()
         
         
